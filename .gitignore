@@ -1,0 +1,4 @@
+.vscode/
+certs/
+tls_server
+*.o
